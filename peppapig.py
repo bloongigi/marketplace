@@ -181,7 +181,7 @@ def mouth(x,y):
 def setting():
     """Settings"""
     pensize(4)
-    # Hide turtule
+    # Hide turtle
     hideturtle()
     colormode(255)
     color((255, 155, 192), "pink")
